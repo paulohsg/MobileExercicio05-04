@@ -1,0 +1,1 @@
+a - Foi criado um projeto de aplicação Android denominado "MyFirstApp".
