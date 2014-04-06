@@ -1,1 +1,2 @@
 a - Foi criado um projeto de aplicação Android denominado "MyFirstApp".
+b - Foi criado um AVD para que a aplicação pudesse ser executada.
