@@ -1,3 +1,4 @@
 a - Foi criado um projeto de aplicação Android denominado "MyFirstApp".
 b - Foi criado um AVD para que a aplicação pudesse ser executada.
 c - O arquivo "fragment_main.xml" foi modificado, para adicionar uma interface simples a aplicação com um campo de texto e um botão. O arquivo "strings.xml" também foi modificado.
+d - Foi criada uma nova "Activity" denominada "DisplayMessageActivity" que foi utilizada para adicionar uma funcionalidade ao botão que foi criado no passo anterior.
